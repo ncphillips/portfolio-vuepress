@@ -7,7 +7,6 @@ sections:
 - type: document
   path: ".vuepress/theme.json"
   label: Theme Settings
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
