@@ -1,23 +1,23 @@
 {
   "nav": [
     {
-      "text": "Works",
       "link": "/",
+      "text": "My Works",
       "position": "left"
     },
     {
-      "text": "Instagram",
       "link": "/instagram/",
+      "text": "Instagram",
       "position": "left"
     },
     {
-      "text": "Say hi!",
       "link": "/about/",
+      "text": "Say hi!",
       "position": "right"
     },
     {
-      "text": "Journal",
       "link": "/journal/",
+      "text": "Journal",
       "position": "right"
     }
   ]
