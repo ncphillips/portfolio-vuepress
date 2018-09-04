@@ -4,15 +4,15 @@ auto_deploy: true
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: document
+  path: ".vuepress/theme.json"
+  label: Theme Settings
 - type: directory
   path: ".vuepress/data"
   label: Data
   create: all
   match: "**/*"
   new_doc_ext: json
-- type: document
-  path: ".vuepress/theme.json"
-  label: Theme Settings
 - type: heading
   label: Content
 - type: directory
