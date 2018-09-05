@@ -42,3 +42,4 @@ pages:
 - works/project-1.md
 - works/forestry.md
 - ".vuepress/data/colors.json"
+- ".vuepress/data/toots.json"
