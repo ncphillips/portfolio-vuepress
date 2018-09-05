@@ -36,6 +36,7 @@ fields:
   config:
     required: true
 pages:
+- ".vuepress/yaml/yaml-caml.yml"
 - ".vuepress/data/poo.json"
 - ".vuepress/data/two.json"
 - works/horse-barn.md
