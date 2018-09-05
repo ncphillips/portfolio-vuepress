@@ -41,8 +41,8 @@ pages:
 - works/project-4.md
 - works/project-1.md
 - works/forestry.md
-- ".vuepress/data/colors.json"
 - ".vuepress/data/toots.json"
 - ".vuepress/data/one.json"
-- ".vuepress/data/poo.json"
+- ".vuepress/data/colors.json"
 - ".vuepress/data/two.json"
+- ".vuepress/data/poo.json"
