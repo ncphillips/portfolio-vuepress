@@ -9,7 +9,7 @@ sections:
   label: TOML
   create: all
   match: "**/*"
-  new_doc_ext: ".toml"
+  new_doc_ext: toml
 - type: directory
   path: ".vuepress/yaml"
   label: YAML
