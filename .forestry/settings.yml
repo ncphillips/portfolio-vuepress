@@ -5,6 +5,12 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: ".vuepress/toml"
+  label: TOML
+  create: all
+  match: "**/*"
+  new_doc_ext: ".toml"
+- type: directory
   path: ".vuepress/yaml"
   label: YAML
   create: all
