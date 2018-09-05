@@ -45,3 +45,4 @@ pages:
 - ".vuepress/data/toots.json"
 - ".vuepress/data/one.json"
 - ".vuepress/data/poo.json"
+- ".vuepress/data/two.json"
