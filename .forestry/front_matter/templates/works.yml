@@ -45,5 +45,6 @@ pages:
 - ".vuepress/data/one.json"
 - ".vuepress/data/colors.json"
 - ".vuepress/yaml/cats.yml"
+- ".vuepress/yaml/caml.yml"
 - ".vuepress/data/two.json"
 - ".vuepress/data/poo.json"
