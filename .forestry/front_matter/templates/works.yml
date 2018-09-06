@@ -41,11 +41,11 @@ pages:
 - works/project-4.md
 - works/project-1.md
 - works/forestry.md
-- ".vuepress/data/toots.json"
 - ".vuepress/data/one.json"
-- ".vuepress/data/colors.json"
-- ".vuepress/yaml/cats.yml"
-- ".vuepress/yaml/caml.yml"
 - works/horse-barn.md
+- ".vuepress/yaml/caml.yml"
+- ".vuepress/yaml/cats.yml"
+- ".vuepress/data/toots.json"
+- ".vuepress/data/colors.json"
 - ".vuepress/data/two.json"
 - ".vuepress/data/poo.json"
