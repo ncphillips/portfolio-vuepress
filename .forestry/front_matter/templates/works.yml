@@ -36,6 +36,8 @@ fields:
   config:
     required: true
 pages:
+- works/project-name-changed-copy-1.md
+- works/project-name-changed-copy.md
 - ".vuepress/toml/cakes.toml"
 - ".vuepress/data/two.json"
 - works/project-1.md
