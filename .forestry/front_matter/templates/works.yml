@@ -36,9 +36,9 @@ fields:
   config:
     required: true
 pages:
+- ".vuepress/toml/cakes.toml"
 - ".vuepress/data/two.json"
 - works/project-1.md
-- ".vuepress/toml/cakes.toml"
 - ".vuepress/yaml/yaml-caml.yml"
 - ".vuepress/data/poo.json"
 - works/horse-barn.md
