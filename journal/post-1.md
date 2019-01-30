@@ -18,3 +18,7 @@ In this post, I will show you how I built out the site you're currently looking 
 And BTW.. The theme is free, check it out on [GitHub](https://github.com)
 
 Toot Toot Friends.
+
+What is up?
+
+Fukishima
