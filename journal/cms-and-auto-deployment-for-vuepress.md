@@ -1,16 +1,17 @@
 ---
 title: CMS and auto deployment for vuepress
-date: 2018-08-09 19:49:28 +0200
+date: 2018-08-09 17:49:28 +0000
 thumbnail: "/upload/fail-18.gif"
 excerpt: This works like expected, this text is only visible on the front page where
   all the journal posts are listed
 categories:
 - netlify
 - static
+
 ---
 # CMS and auto deployment for vuepress
 
-Let's check out how we can automatically deploy our vuepress sites and manage the content from within Forestry.
+Let's chefck out how we can automatically deploy our vuepress sites and manage the content from within Forestry.
 
 ### Preparing our vuepress site
 
