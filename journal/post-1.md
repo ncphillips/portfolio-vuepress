@@ -20,5 +20,3 @@ And BTW.. The theme is free, check it out on [GitHub](https://github.com)
 Toot Toot Friends.
 
 What is up?
-
-Fukishima
