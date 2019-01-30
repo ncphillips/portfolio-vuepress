@@ -37,7 +37,6 @@ fields:
     required: true
 pages:
 - works/another-work.md
-- works/magnum-opus.md
 - works/title.md
 - works/project-4.md
 - works/gre.md
