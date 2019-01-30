@@ -27,6 +27,7 @@ fields:
   config:
     required: true
 pages:
+- ".vuepress/data/fahlder/title-journal-copy.json"
 - ".vuepress/data/fahlder/title-journal.json"
 - journal/post-1.md
 - journal/cms-and-auto-deployment-for-vuepress.md
