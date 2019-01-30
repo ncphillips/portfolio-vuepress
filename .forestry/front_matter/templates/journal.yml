@@ -27,7 +27,6 @@ fields:
   config:
     required: true
 pages:
-- ".vuepress/data/fahlder/title-journal-copy-gregre-copy-dfefe.json"
 - ".vuepress/data/fewfew.json"
 - ".vuepress/data/fahlder/fewfew-copy.json"
 - ".vuepress/data/fahlder/fewfew.json"
