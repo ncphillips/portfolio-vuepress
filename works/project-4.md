@@ -12,4 +12,4 @@ description: Project description
 
 ![](/upload/fail-18.gif)
 
-![](/upload/dice.svg)
+![](/upload/OGimage-01.jpg)![](/upload/dice.svg)
