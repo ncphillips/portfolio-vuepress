@@ -36,6 +36,7 @@ fields:
   config:
     required: true
 pages:
+- title.md
 - works/project-2.md
 - works/project-3.md
 - works/forestry.md

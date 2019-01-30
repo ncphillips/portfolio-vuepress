@@ -1,7 +1,10 @@
++++
+
++++
 <p align="center">
-  <img src="https://vuepress-portfolio.netlify.com/upload/logo.svg" height="64">
-  <h3 align="center">Vuepress Portfolio</h3>
-  <p align="center">Vuepress site with portfolio and blogging pages<br>ready to deloy, and configured for Forestry (CMS)<p>
+<img src="https://vuepress-portfolio.netlify.com/upload/logo.svg" height="64">
+<h3 align="center">Vuepress Portfolio</h3>
+<p align="center">Vuepress site with portfolio and blogging pages<br>ready to deloy, and configured for Forestry (CMS)<p>
 </p>
 
 ## Development
@@ -36,3 +39,5 @@ That's it, now your site gets deployed automatically on `git push`
 This project has been pre-configured to work with Forestry, just create an account and import your repository.
 
 [Create Forestry account](https://forestry.io)
+
+test edit on a non-fmt page
