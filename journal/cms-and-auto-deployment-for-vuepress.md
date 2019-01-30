@@ -11,7 +11,7 @@ categories:
 ---
 # CMS and auto deployment for vuepress
 
-Let's chefck out how we can automatically deploy our vuepress sites and manage the content from within Forestry.
+Let's chefck out how we can automatifewcally deploy our vuepress sites and manage the content from within Forestry.
 
 ### Preparing our vuepress site
 

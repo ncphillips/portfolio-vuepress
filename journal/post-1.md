@@ -7,9 +7,9 @@ excerpt: "."
 
 ---
 # How to build a portfolio/blog with Vuepress
+
 fewfeff
 fefe
 f
 
-AND NOW ILL CLEAR THE FRONT MATTER
-AND ADD A THUMBNAIL
+AND NOW ILL CLEARfew THE FRONT MATTER AND ADD A THUMBNAIL
