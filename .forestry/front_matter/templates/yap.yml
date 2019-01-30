@@ -10,5 +10,6 @@ fields:
   name: fwe
   label: fwe
 pages:
+- ".vuepress/yaml/fewfew.yml"
 - ".vuepress/yaml/stinky!2.yml"
 - ".vuepress/yaml/gr.yml"
