@@ -6,6 +6,7 @@ year: 2017
 categories:
 - Web
 - Product design
+- my new tag
 description: Project description
 
 ---
