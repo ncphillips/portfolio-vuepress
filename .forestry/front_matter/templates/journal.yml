@@ -30,7 +30,6 @@ pages:
 - ".vuepress/data/fewfew.json"
 - ".vuepress/data/fahlder/fewfew-copy.json"
 - ".vuepress/data/fahlder/fewfew.json"
-- ".vuepress/data/fahlder/title-journal-copy.json"
 - ".vuepress/data/fahlder/title-journal.json"
 - journal/post-1.md
 - journal/cms-and-auto-deployment-for-vuepress.md
