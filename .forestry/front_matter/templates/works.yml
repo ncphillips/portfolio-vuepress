@@ -36,26 +36,6 @@ fields:
   config:
     required: true
 pages:
-- title.md
-- works/project-2.md
-- works/project-3.md
-- works/forestry.md
-- ".vuepress/data/toots.json"
-- ".vuepress/data/one.json"
-- ".vuepress/data/colors.json"
-- ".vuepress/yaml/cats.yml"
-- works/horse-barn.md
-- ".vuepress/data/poo.json"
-- ".vuepress/yaml/yaml-caml.yml"
-- works/project-1.md
-- ".vuepress/data/two.json"
-- works/project-name-changed-copy.md
-- works/project-name-changed-copy-1.md
-- works/project-name-copy.md
-- works/few.md
-- works/fewfewf.md
-- works/gre.md
-- works/project-4.md
 - works/project-4.md
 - works/gre.md
 - works/fewfewf.md
