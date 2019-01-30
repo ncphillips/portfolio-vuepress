@@ -15,4 +15,10 @@ This morning, I read this article by one of the co-founders of Snipcart. He did 
 
 In this post, I will show you how I built out the site you're currently looking at! Yes, it's all Vuepress. Pretty neat, huh?
 
-And BTW.. The theme is free, check it out on [GitHub](https://github.com)
+And BTW.. The theme is free, 
+
+1
+
+2
+
+3check it out on [GitHub](https://github.com)
