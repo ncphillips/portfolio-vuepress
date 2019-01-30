@@ -12,3 +12,4 @@ excerpt: This morning, I read this article by one of the co-founders of Snipcart
 # How to build a portfolio/blog with Vuepress
 
 I am writing a post and this is my first save
+Now 
