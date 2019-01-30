@@ -36,6 +36,8 @@ fields:
   config:
     required: true
 pages:
+- works/gre.md
+- works/fewfewf.md
 - works/few.md
 - works/project-name-copy.md
 - works/project-name-changed-copy-1.md
