@@ -28,7 +28,6 @@ fields:
     required: true
 pages:
 - ".vuepress/data/fewfew.json"
-- ".vuepress/data/fahlder/fewfew-copy.json"
 - ".vuepress/data/fahlder/fewfew.json"
 - ".vuepress/data/fahlder/title-journal.json"
 - journal/post-1.md
