@@ -3,3 +3,5 @@ label: datafile
 hide_body: true
 is_partial: false
 fields: []
+pages:
+- ".vuepress/toml/my-new-df.toml"
