@@ -2,6 +2,11 @@
 label: datafile
 hide_body: true
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: tf
+  label: tf
+  default: '123'
 pages:
+- ".vuepress/yaml/faalhder2/dddf.yml"
 - ".vuepress/toml/my-new-df.toml"
