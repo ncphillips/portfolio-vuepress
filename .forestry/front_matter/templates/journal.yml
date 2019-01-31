@@ -27,6 +27,7 @@ fields:
   config:
     required: true
 pages:
+- journal/cake-face.md
 - ".vuepress/data/fewfew.json"
 - ".vuepress/data/fahlder/fewfew.json"
 - ".vuepress/data/fahlder/title-journal.json"
