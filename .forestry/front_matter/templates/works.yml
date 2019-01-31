@@ -50,7 +50,7 @@ pages:
 - ".vuepress/data/two.json"
 - works/project-1.md
 - ".vuepress/yaml/yaml-caml.yml"
-- ".vuepress/data/poo.json"
+- ".vuepress/data/poo-2.json"
 - works/horse-barn.md
 - ".vuepress/yaml/cats.yml"
 - ".vuepress/data/colors.json"
