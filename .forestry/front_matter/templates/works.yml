@@ -36,6 +36,7 @@ fields:
   config:
     required: true
 pages:
+- works/iron.md
 - works/fulder/wurk.md
 - works/another-work.md
 - works/title.md
