@@ -1,13 +1,13 @@
 {
   "nav": [
     {
-      "link": "/",
-      "text": "Homefew",
+      "link": "/instagram/",
+      "text": "Instagram!",
       "position": "left"
     },
     {
-      "link": "/instagram/",
-      "text": "Instagram!",
+      "link": "/",
+      "text": "Homefew",
       "position": "left"
     },
     {
