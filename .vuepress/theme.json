@@ -1,6 +1,11 @@
 {
   "nav": [
     {
+      "link": "/toot/",
+      "text": "",
+      "position": ""
+    },
+    {
       "link": "/instagram/",
       "text": "Instagram!",
       "position": "left"
